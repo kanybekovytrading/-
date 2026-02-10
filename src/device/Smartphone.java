@@ -1,4 +1,6 @@
-public class Smartphone extends Device{
+package device;
+
+public class Smartphone extends Device {
     public Smartphone(String brand, String model) {
         super(brand, model);
     }
